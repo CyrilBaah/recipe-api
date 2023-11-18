@@ -1,5 +1,5 @@
 """
-Test for models
+Test for User model
 """
 from django.contrib.auth import get_user_model
 from django.test import TestCase
